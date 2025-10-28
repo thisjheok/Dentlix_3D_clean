@@ -1,0 +1,4 @@
+*.pt
+__pycache__
+choi_test.mp4
+offline_processed_3D_model_choi.npz
